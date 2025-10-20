@@ -1,5 +1,5 @@
 {
   "origins": ["https://rizalibnu.dev"],
-  "originsRegexe": ["http://localhost:[0-9]+", "https://.*\\.ngrok-free\\.app"],
+  "originsRegex": ["http://localhost:[0-9]+", "https://.*\\.ngrok-free\\.app"],
   "defaultCommentOrder": "newest"
 }
